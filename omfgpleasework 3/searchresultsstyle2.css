@@ -1,0 +1,79 @@
+
+body{
+  width: 80%;
+  background-image: url("imag/bg1.png");
+  background-margin-top: 100%;
+  background-size: 100%;
+  background-position: fixed;
+}
+
+.navbar{
+  margin: 0 auto;
+  padding-left: 200px;
+  padding-right: 200px;
+  background: rgba(255 255 255 0.8);
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+
+
+.nav-link{
+  font-weight: bold;
+  color: white;
+}
+
+.nav-item{
+  color: white;
+}
+
+
+#navsearchbar{
+  margin-right: 20px;
+  float: right;
+}
+
+#mini-searchbtn{
+  width: 80px;
+}
+
+
+/*Content display below nav bar*/
+.content-display{
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+#search-filters{
+  background: rgba(255, 255, 255, 0.5);
+  padding: 10px;
+}
+
+
+/*filter checkbox*/
+
+
+
+#search-results-content{
+  padding: 0 20px;
+}
+
+
+
+
+#keyword-display{
+  background-color: yellow;
+}
+
+
+#search-results-grid{
+  background-color: blue;
+
+}
+
+
+#keyword-display{
+
+}
+
+
